@@ -1,0 +1,5 @@
+a.menu_item { text-decoration: none; font-family: Verdana, Sans Serif; font-size: 8pt; color: blue; }
+a.menu_item:hover { text-decoration: underline; font-family: Verdana, Sans Serif; font-size: 8pt; color: green; }
+
+/*#sidebar { background-color: #AAEEFF; } */
+/*//#main { background-color: #AAEEAA; padding: 10pt; padding-left: 20pt; font-family: Corbel; font-size: 14pt; } */
